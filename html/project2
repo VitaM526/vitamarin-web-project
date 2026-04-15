@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Project 2 – Trigun</title>
+</head>
+
+<body style="background-color: #ffffff; font-family: Georgia; padding: 20px;">
+
+    <nav style="margin-bottom: 20px;">
+        <a href="../index.html">Home</a> |
+        <a href="project2.html">Project 2 Page</a>
+    </nav>
+
+    <h1 style="color: darkred;">About Trigun</h1>
+
+    <p style="font-size: 18px;">
+        Trigun is a manga and anime from 1998. It was created by Yasuhiro Nightow and the main themes
+        revolve around morality and the value of a life. This is a sci-fi, futuristic western that takes place on a 
+        desert planet known as Gunsmoke, or No Man's Land.  The main character is Vash the Stampede, with the main
+        supporting character being Wolfwood. The antagonist is named, Nai or also Knives. He is the main character's twin
+        brother. Vash The Stampede is a wanted criminal with a bounty of sixty billion double dollars on his head. He is a pacifist gunman,
+        who refuses to kill at all costs.
+    </p>
+
+    <p style="font-size: 18px;">
+        I do prefer the manga, book version, of Trigun than its two aninmated counterparts. The first anime was released in 1998
+        which is closer to the source material but deviates later in the series. The later anime was released in 2023, and was
+        described as a retelling of the main events. However, out of the two animes, I do like the older one more than the newer one.
+        The older one resembes the story I fell in love with moreso than the newer one. I also like to collect figures and plushies
+        from this series.
+    </p>
+
+    <h2>My Most Favorite Characters From Trigun!</h2>
+
+    <ul>
+        <li>Nicholas D. Wolfwood</li>
+        <li>Vash The Stampede</li>
+        <li>Livio The DoubleFang</li>
+    </ul>
+
+    <img src="https://static.wikia.nocookie.net/trigun/images/e/e6/Sample.jpg/revision/latest?cb=20081016221625" alt="Cover of first volume of Trigun" width="300">
+
+    <h2>Release Dates</h2>
+
+    <table style="margin-top: 10px; border: 1px solid black; border-collapse: collapse;">
+        <tr>
+            <td style="padding: 10px;">Trigun Maximum: The Manga</td>
+            <td style="padding: 10px;">Published in October 1997</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">Trigun: The Anime</td>
+            <td style="padding: 10px;">Released in April 1998</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">Trigun Stampede: The Anime Remake</td>
+            <td style="padding: 10px;">Released in January 2023</td>
+        </tr>
+    </table>
+
+    <p>
+        <a href="https://trigun.fandom.com/wiki/Trigun_(manga)" target="_blank">Here's the wiki if you want to learn more!</a>
+    </p>
+
+</body>
+</html>
